@@ -1,0 +1,10 @@
+#Primer reto de la semana python
+#Andrés Raxá
+
+first_name = input('ingresa tu nombre ')
+last_name = input('ingresa tus apellidos ')
+phone = input('inngresa tu número de telefono ')
+email = input('ingresa tu correo electrónico ')
+
+print('hola', first_name, last_name, 'en breve recibirás un correo a', email)
+
